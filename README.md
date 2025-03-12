@@ -11,12 +11,12 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 - [Background, Theory, and Survey](#background-theory-and-survey)
 
 
-- [Optical diffraction tomography (ODT)]
+- [Optical diffraction tomography (ODT)]（#optical-diffraction-tomography-odt）
     - [Traditional Heuristic Methods](#traditional-heuristic-methods)
     - [Iterative Methods](#iterative-methods)
     - [Learned Propagation Model Methods](#learned-propagation-model-methods)
     - [Learned Hologram Synthesis Methods](#learned-hologram-synthesis-methods)
-- [Topics in Holography Display Systems](#topics-in-holographic-display-systems)
+- [Intensity diffraction tomography (IDT)](#intensity-diffraction-tomography-idt)
     - [Speckle Noise Reduction](#speckle-noise-reduction)
     - [Etendue Expansion](#etendue-expansion)
     - [Holographic Optical Elements (HOEs)](#holographic-optical-elements-hoes)
@@ -39,14 +39,6 @@ This section mainly focuses on the algorithmic aspect of holographic display sys
 
 ### Traditional Heuristic Methods
 
-#### Point-based Methods
-
-#### Polygon/Mesh-based Methods
-
-#### Layer-based Methods
-
-#### Holographic Stereograms
-
 ### Iterative Methods
 
 #### Perceptual-driven loss designs
@@ -57,25 +49,10 @@ This section mainly focuses on the algorithmic aspect of holographic display sys
 
 ### Learned Hologram Synthesis Methods
 
-## Topics in Holographic Display Systems
+## Intensity diffraction tomography (IDT)
 
-### Speckle Noise Reduction
 
-#### Time-averaging
 
-#### Partially-coherent Light Sources
-#### Others
-
-### Etendue Expansion
-
-### Holographic Optical Elements (HOEs)
-
-### Small Form-factor Displays
-
-### Compression
-**CGH compression** is also important for deploying holography technology on edge devices:
-
-### Zero or Higher Diffraction Orders Optimization
 
 ## Labs and Researchers
 - [Computational Imaging Lab, Stanford University](https://www.computationalimaging.org)
