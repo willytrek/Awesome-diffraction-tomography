@@ -11,7 +11,7 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 - [Background, Theory, and Survey](#background-theory-and-survey)
 
 
-- [Optical diffraction tomography (ODT)]（#optical-diffraction-tomography-odt）
+- [Optical diffraction tomography (ODT)](#optical-diffraction-tomography-odt)
     - [Traditional Heuristic Methods](#traditional-heuristic-methods)
     - [Iterative Methods](#iterative-methods)
     - [Learned Propagation Model Methods](#learned-propagation-model-methods)
