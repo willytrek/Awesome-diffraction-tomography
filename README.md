@@ -9,8 +9,6 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 
 ## Table of Contents
 - [Background, Theory, and Survey](#background-theory-and-survey)
-
-
 - [Optical diffraction tomography (ODT)](#optical-diffraction-tomography-odt)
     - [Traditional Heuristic Methods](#traditional-heuristic-methods)
     - [Iterative Methods](#iterative-methods)
@@ -35,7 +33,7 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 - - [The Theory of Diffraction Tomography](https://arxiv.org/pdf/1507.00466) 
 ## Optical diffraction tomography (ODT)
 
-This section mainly focuses on the algorithmic aspect of holographic display systems.
+This section mainly focuses on the optical diffraction tomography.
 
 ### Traditional Heuristic Methods
 
@@ -50,7 +48,7 @@ This section mainly focuses on the algorithmic aspect of holographic display sys
 ### Learned Hologram Synthesis Methods
 
 ## Intensity diffraction tomography (IDT)
-
+This section mainly focuses on the intensity diffraction tomography.
 
 
 
@@ -70,7 +68,7 @@ This section mainly focuses on the algorithmic aspect of holographic display sys
 
 ## Contributing
 If you want to contribute to this list, please 
-1. [Created a new issue](https://github.com/bchao1/awesome-holography/issues)
+1. [Created a new issue](https://github.com/willytrek/Awesome-diffraction-tomography/issues)
 2. Explain in the issue why the paper/book/talk is relevant, and under which category should the resource be placed.
    
 Thank you!
