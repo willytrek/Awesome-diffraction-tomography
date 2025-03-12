@@ -5,14 +5,13 @@ A curated list of resources on diffraction tomography.
 ## Disclaimer
 
 This list is compiled during our paper survey about diffraction tomography and is not meant to be exhaustive. The list is organized so that we can easily navigate different topics in diffraction tomography.
-Thank Brian Chao's template.
+Thank [Brian Chao](https://github.com/bchao1)'s template.
 
 ## Table of Contents
 - [Background, Theory, and Survey](#background-theory-and-survey)
-- - [Introduction to Fourier Optics](https://books.google.com.tw/books/about/Introduction_to_Fourier_Optics.html?id=QllRAAAAMAAJ&redir_esc=y) by Joseph W. Goodman is a great book to learn the basics of wave propagation and holography.
-- [Numerical simulation of optical wave propagation: With examples in MATLAB](https://www.spiedigitallibrary.org/ebooks/PM/Numerical-Simulation-of-Optical-Wave-Propagation-with-Examples-in-MATLAB/eISBN-9780819483270/10.1117/3.866274?SSO=1) by Jason D. Schmidt walks you through the nitty-gritty details of implementing optial wave propagation.
 
-- [Computer Generated Holography (CGH) Algorithms](#computer-generated-holography-cgh-algorithms)
+
+- [Optical diffraction tomography (ODT)]
     - [Traditional Heuristic Methods](#traditional-heuristic-methods)
     - [Iterative Methods](#iterative-methods)
     - [Learned Propagation Model Methods](#learned-propagation-model-methods)
@@ -29,10 +28,12 @@ Thank Brian Chao's template.
 
 ## Background, Theory, and Survey
 ### Background and Theory
+- - [Introduction to Fourier Optics](https://books.google.com.tw/books/about/Introduction_to_Fourier_Optics.html?id=QllRAAAAMAAJ&redir_esc=y) by Joseph W. Goodman is a great book to learn the basics of wave propagation.
+
 
 ### Survey Papers
-
-## Computer Generated Holography (CGH) Algorithms
+- - [The Theory of Diffraction Tomography](https://arxiv.org/pdf/1507.00466) 
+## Optical diffraction tomography (ODT)
 
 This section mainly focuses on the algorithmic aspect of holographic display systems.
 
