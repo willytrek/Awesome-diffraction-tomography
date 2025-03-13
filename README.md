@@ -35,17 +35,8 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 
 This section mainly focuses on the optical diffraction tomography.
 
-### Traditional Heuristic Methods
-
-### Iterative Methods
-
-#### Perceptual-driven loss designs
 
 #### Others
-
-### Learned Propagation Model Methods
-
-### Learned Hologram Synthesis Methods
 
 ## Intensity diffraction tomography (IDT)
 This section mainly focuses on the intensity diffraction tomography.
@@ -74,11 +65,12 @@ Zhou, K. C., & Horstmeyer, R. (2020). *Optics Express*, 28(9), 12872-12896.
 - [**Recovery of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements Using Neural Fields**](https://www.nature.com/articles/s42256-022-00530-3)  
 Liu, R., Sun, Y., Zhu, J., Tian, L., & Kamilov, U. S. (2022). *Nature Machine Intelligence*, 4(9), 781-791.
 
+### Others
 
 
 ## Labs and Researchers
-- [Computational Imaging Lab, Stanford University](https://www.computationalimaging.org)
-- [Computational Imaging Lab, Princeton University](https://light.princeton.edu)
+
+
 - [Computational Biophotonics Laboratory, UNC Chapel Hill](http://www.nicolaspegard.com/index.php)
 - [Graphics and Virtual Reality Group, UNC Chapel Hill](https://telepresence.web.unc.edu)
 - [Computational Light Laboratory, University College London](https://complightlab.com)
@@ -86,9 +78,12 @@ Liu, R., Sun, Y., Zhu, J., Tian, L., & Kamilov, U. S. (2022). *Nature Machine In
 - [Optical Engineering and Quantum Electronics Lab, Seoul National University](http://oeqelab.snu.ac.kr)
 - [NVIDIA Research](https://www.nvidia.com/en-us/research/)
 - [Meta Research](https://research.facebook.com)
-
+### IDT 
+- [Computational Imaging Systems Lab, Boston University](https://sites.bu.edu/tianlab/)
+- [Computational Imaging Lab, UC Berkeley](https://www.laurawaller.com/)
+- [Smart Computational Imaging (SCI) Laboratory‍, NUST](https://www.scilaboratory.com/)
 ## Talks, Lectures, and Tutorials
-- [Could Deep Learning Improve Visual Quality in Holographic Displays?](https://www.youtube.com/watch?v=lbgRke4H_HA)(Optica, 2022)
+- [Diffraction Tomography: Computational Optical Imaging](https://www.youtube.com/watch?v=B4nYL-4e2zI)(Arizona Camera Lab, David J Brady, 2024)
 
 ## Contributing
 If you want to contribute to this list, please 
