@@ -69,12 +69,9 @@ Liu, R., Sun, Y., Zhu, J., Tian, L., & Kamilov, U. S. (2022). *Nature Machine In
 
 
 - [Computational Biophotonics Laboratory, UNC Chapel Hill](http://www.nicolaspegard.com/index.php)
-- [Graphics and Virtual Reality Group, UNC Chapel Hill](https://telepresence.web.unc.edu)
-- [Computational Light Laboratory, University College London](https://complightlab.com)
+
 - [Computational Imaging Group, KAUST](https://vccimaging.org/publications.html)
-- [Optical Engineering and Quantum Electronics Lab, Seoul National University](http://oeqelab.snu.ac.kr)
-- [NVIDIA Research](https://www.nvidia.com/en-us/research/)
-- [Meta Research](https://research.facebook.com)
+
 ### IDT 
 - [Computational Imaging Systems Lab, Boston University](https://sites.bu.edu/tianlab/)
 - [Computational Imaging Lab, UC Berkeley](https://www.laurawaller.com/)
