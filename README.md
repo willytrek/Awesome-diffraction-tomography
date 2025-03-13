@@ -50,6 +50,30 @@ This section mainly focuses on the optical diffraction tomography.
 ## Intensity diffraction tomography (IDT)
 This section mainly focuses on the intensity diffraction tomography.
 
+### FP-based 
+
+#### Physics-Based Model
+
+- [**Diffraction Tomography with Fourier Ptychography**](https://opg.optica.org/optica/fulltext.cfm?uri=optica-3-8-827&id=348069)  
+Horstmeyer, R., Chung, J., Ou, X., Zheng, G., & Yang, C. (2016). *Optica*, 3(8), 827-835.
+
+- [**High-Throughput Intensity Diffraction Tomography with a Computational Microscope**](https://opg.optica.org/boe/fulltext.cfm?uri=boe-9-5-2130&id=385347)  
+Ling, R., Tahir, W., Lin, H.-Y., Lee, H., & Tian, L. (2018). *Biomedical Optics Express*, 9(5), 2130-2141.
+
+- [**High-Speed In Vitro Intensity Diffraction Tomography**](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-1/issue-6/066004/High-speed-in-vitro-intensity-diffraction-tomography/10.1117/1.AP.1.6.066004.full)  
+Li, J., Matlock, A., Li, Y., Chen, Q., Zuo, C., & Tian, L. (2019). *Advanced Photonics*, 1(6), 066004-066004.
+
+- [**Wide-Field High-Resolution 3D Microscopy with Fourier Ptychographic Diffraction Tomography**](https://www.sciencedirect.com/science/article/pii/S0143816619318421)  
+Zuo, C., Sun, J., Li, J., Asundi, A., & Chen, Q. (2020). *Optics and Lasers in Engineering*, 128, 106003.
+
+
+#### Learning Algorithm-Integrated Model
+- [**Diffraction Tomography with a Deep Image Prior**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-9-12872&id=430210)  
+Zhou, K. C., & Horstmeyer, R. (2020). *Optics Express*, 28(9), 12872-12896.
+
+- [**Recovery of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements Using Neural Fields**](https://www.nature.com/articles/s42256-022-00530-3)  
+Liu, R., Sun, Y., Zhu, J., Tian, L., & Kamilov, U. S. (2022). *Nature Machine Intelligence*, 4(9), 781-791.
+
 
 
 ## Labs and Researchers
