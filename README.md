@@ -11,16 +11,13 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 - [Background, Theory, and Survey](#background-theory-and-survey)
 - [Optical diffraction tomography (ODT)](#optical-diffraction-tomography-odt)
     - [Traditional Heuristic Methods](#traditional-heuristic-methods)
-    - [Iterative Methods](#iterative-methods)
-    - [Learned Propagation Model Methods](#learned-propagation-model-methods)
-    - [Learned Hologram Synthesis Methods](#learned-hologram-synthesis-methods)
+
+
 - [Intensity diffraction tomography (IDT)](#intensity-diffraction-tomography-idt)
-    - [Speckle Noise Reduction](#speckle-noise-reduction)
-    - [Etendue Expansion](#etendue-expansion)
-    - [Holographic Optical Elements (HOEs)](#holographic-optical-elements-hoes)
-    - [Small Form-factor Displays](#small-form-factor-displays)
-    - [Compression](#compression)
-    - [Zero or Higher Diffraction Orders Optimization](#zero-or-high-diffraction-orders-optimization)
+    - [FP-based](#fp-based)
+    - [Physics-Based Model](#physics-based-model)
+    - [Learning Algorithm-Integrated Model](#learning-algorithm-integrated-model)
+ 
 - [Labs and Researchers](#labs-and-researchers)
 - [Talks, Lectures, and Tutorials](#talks-lectures-and-tutorials)
 
