@@ -23,8 +23,17 @@ Thank [Brian Chao](https://github.com/bchao1)'s template.
 
 ## Background, Theory, and Survey
 ### Background and Theory
-- - [Introduction to Fourier Optics](https://books.google.com.tw/books/about/Introduction_to_Fourier_Optics.html?id=QllRAAAAMAAJ&redir_esc=y) by Joseph W. Goodman is a great book to learn the basics of wave propagation.
+- [Introduction to Fourier Optics](https://books.google.com.tw/books/about/Introduction_to_Fourier_Optics.html?id=QllRAAAAMAAJ&redir_esc=y) by Joseph W. Goodman is a great book to learn the basics of wave propagation.
 
+- [**Three-Dimensional Structure Determination of Semi-Transparent Objects from Holographic Data**](https://www.sciencedirect.com/science/article/pii/0030401869900522)  
+Wolf, E. (1969). *Optics Communications*, 1(4), 153-156.
+
+- [**New Approach to Optical Diffraction Tomography Yielding a Vector Equation of Diffraction Tomography and a Novel Tomographic Microscope**](https://onlinelibrary.wiley.com/doi/full/10.1046/j.0022-2720.2001.00980.x)  
+Lauer, V. (2002). *Journal of Microscopy*, 205(2), 165-176.
+
+
+- [**Tomographic Diffractive Microscopy: Basics, Techniques and Perspectives**](https://www.tandfonline.com/doi/full/10.1080/09500340.2010.493622)  
+Haeberlé, O., Belkebir, K., Giovaninni, H., & Sentenac, A. (2010). *Journal of Modern Optics*, 57(9), 686-699.
 
 ### Survey Papers
 - - [The Theory of Diffraction Tomography](https://arxiv.org/pdf/1507.00466) 
@@ -37,6 +46,22 @@ This section mainly focuses on the optical diffraction tomography.
 
 ## Intensity diffraction tomography (IDT)
 This section mainly focuses on the intensity diffraction tomography.
+
+### Early stage (before 2010)
+
+- [**Phase-Retrieval and Intensity-Only Reconstruction Algorithms for Optical Diffraction Tomography**](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-10-5-1086&id=4618)  
+Maleki, M. H., & Devaney, A. J. (1993). *Journal of the Optical Society of America A*, 10(5), 1086-1092.
+
+- [**Diffraction Tomography Without Phase Information**](https://opg.optica.org/ol/abstract.cfm?uri=OL-27-21-1890)  
+Gbur, G., & Wolf, E. (2002). *Optics Letters*, 27(21), 1890-1892.
+
+- [**Hybrid Diffraction Tomography Without Phase Information**](https://opg.optica.org/josaa/abstract.cfm?uri=JOSAA-19-11-2194)  
+Gbur, G., & Wolf, E. (2002). *Journal of the Optical Society of America A*, 19(11), 2194-2202.
+
+
+- [**Statistically Principled Use of In-Line Measurements in Intensity Diffraction Tomography**](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-24-3-626&id=127065)  
+Huang, Y., & Anastasio, M. A. (2007). *Journal of the Optical Society of America A*, 24(3), 626-642.
+
 
 ### FP-based 
 
@@ -54,6 +79,9 @@ Li, J., Matlock, A., Li, Y., Chen, Q., Zuo, C., & Tian, L. (2019). *Advanced Pho
 - [**Wide-Field High-Resolution 3D Microscopy with Fourier Ptychographic Diffraction Tomography**](https://www.sciencedirect.com/science/article/pii/S0143816619318421)  
 Zuo, C., Sun, J., Li, J., Asundi, A., & Chen, Q. (2020). *Optics and Lasers in Engineering*, 128, 106003.
 
+- [**Multiple-Scattering Simulator-Trained Neural Network for Intensity Diffraction Tomography**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-3-4094&id=525403)  
+Matlock, A., Zhu, J., & Tian, L. (2023). *Optics Express*, 31(3), 4094-4107.
+
 
 #### Learning Algorithm-Integrated Model
 - [**Diffraction Tomography with a Deep Image Prior**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-9-12872&id=430210)  
@@ -61,6 +89,21 @@ Zhou, K. C., & Horstmeyer, R. (2020). *Optics Express*, 28(9), 12872-12896.
 
 - [**Recovery of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements Using Neural Fields**](https://www.nature.com/articles/s42256-022-00530-3)  
 Liu, R., Sun, Y., Zhu, J., Tian, L., & Kamilov, U. S. (2022). *Nature Machine Intelligence*, 4(9), 781-791.
+
+### Neural-field 
+- [**Neural-Field-Assisted Transport-of-Intensity Phase Microscopy: Partially Coherent Quantitative Phase Imaging under Unknown Defocus Distance**](https://opg.optica.org/prj/fulltext.cfm?uri=prj-12-7-1494&id=552941)  
+Jin, Y., Lu, L., Zhou, S., Zhou, J., Fan, Y., & Zuo, C. (2024). *Photonics Research*, 12(7), 1494-1501.
+
+
+- [**Differentiable Imaging Meets Adaptive Neural Dropout: An Advancing Method for Transparent Object Tomography**](https://arxiv.org/abs/2502.19314)  
+Yang, D., Zhang, S., Sun, J., Zuo, C., & Hao, Q. (2025). *arXiv preprint*, arXiv:2502.19314.
+
+
+- [**Dynamic Multiplexed Intensity Diffraction Tomography Using a Spatiotemporal Regularization-Driven Disorder-Invariant Multilayer Perceptron**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-22-39117&id=561408)  
+Luo, H., Chen, H., Xu, J., Wan, M., Zhong, L., Lu, X., & Tian, J. (2024). *Optics Express*, 32(22), 39117-39133.
+
+- [**Refractive Index Tomography with a Physics-Based Optical Neural Network**](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-11-5886&id=541011)  
+Yang, D., Zhang, S., Zheng, C., Zhou, G., Hu, Y., & Hao, Q. (2023). *Biomedical Optics Express*, 14(11), 5886-5903.
 
 ### Others
 
