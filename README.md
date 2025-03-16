@@ -93,7 +93,7 @@ Chen, M., Ren, D., Liu, H.-Y., Chowdhury, S., & Waller, L. (2020). *Optica*, 7, 
 Zhu, J., Wang, H., & Tian, L. (2022). *Optics Express*, 30, 32808-32821.
 
 
-- [**Multiple-Scattering Simulator-Trained Neural Network for Intensity Diffraction Tomography**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-3-4094&id=525403)  
+- [**Multiple-Scattering Simulator-Trained Neural Network for Intensity Diffraction Tomography**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-3-4094&id=525403)  [Code](https://github.com/bu-cisl/IDTNet)   
 Matlock, A., Zhu, J., & Tian, L. (2023). *Optics Express*, 31(3), 4094-4107.
 
 
@@ -116,7 +116,7 @@ Yang, D., Zhang, S., Zheng, C., Zhou, G., Hu, Y., & Hao, Q. (2023). *Biomedical 
 Jin, Y., Lu, L., Zhou, S., Zhou, J., Fan, Y., & Zuo, C. (2024). *Photonics Research*, 12(7), 1494-1501.
 
 
-- [**Differentiable Imaging Meets Adaptive Neural Dropout: An Advancing Method for Transparent Object Tomography**](https://arxiv.org/abs/2502.19314)  | [Code](https://github.com/yang980130/Enhancing-Optical-Diffraction-Tomography-with-Physics-Guided-Adaptive-Dropout-Neural-Networks/tree/master)
+- [**Differentiable Imaging Meets Adaptive Neural Dropout: An Advancing Method for Transparent Object Tomography**](https://arxiv.org/abs/2502.19314)  | [Code](https://github.com/yang980130/Enhancing-Optical-Diffraction-Tomography-with-Physics-Guided-Adaptive-Dropout-Neural-Networks/tree/master)  
 Yang, D., Zhang, S., Sun, J., Zuo, C., & Hao, Q. (2025). *arXiv preprint*, arXiv:2502.19314.
 
 
