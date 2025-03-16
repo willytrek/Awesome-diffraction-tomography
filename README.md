@@ -36,7 +36,7 @@ Lauer, V. (2002). *Journal of Microscopy*, 205(2), 165-176.
 Haeberlé, O., Belkebir, K., Giovaninni, H., & Sentenac, A. (2010). *Journal of Modern Optics*, 57(9), 686-699.
 
 ### Survey Papers
-- [**The Theory of Diffraction Tomography**](https://arxiv.org/pdf/1507.00466) | [Code](https://github.com/RI-imaging/ODTbrain) 
+- [**The Theory of Diffraction Tomography**](https://arxiv.org/pdf/1507.00466) | [Code](https://github.com/RI-imaging/ODTbrain)  
 Müller, P., Schürmann, M., & Guck, J. (2015). *arXiv preprint arXiv:1507.00466*.
 
 
@@ -77,7 +77,7 @@ Horstmeyer, R., Chung, J., Ou, X., Zheng, G., & Yang, C. (2016). *Optica*, 3(8),
 - [**High-Throughput Intensity Diffraction Tomography with a Computational Microscope**](https://opg.optica.org/boe/fulltext.cfm?uri=boe-9-5-2130&id=385347) | [Code](https://github.com/bu-cisl/High-Throughput-IDT?tab=readme-ov-file)  
 Ling, R., Tahir, W., Lin, H.-Y., Lee, H., & Tian, L. (2018). *Biomedical Optics Express*, 9, 2130-2141.
 
-- [**High-Speed In Vitro Intensity Diffraction Tomography**](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-1/issue-6/066004/High-speed-in-vitro-intensity-diffraction-tomography/10.1117/1.AP.1.6.066004.full)   | [Code](https://github.com/bu-cisl/IDT-using-Annular-Illumination?tab=readme-ov-file)
+- [**High-Speed In Vitro Intensity Diffraction Tomography**](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-1/issue-6/066004/High-speed-in-vitro-intensity-diffraction-tomography/10.1117/1.AP.1.6.066004.full)   | [Code](https://github.com/bu-cisl/IDT-using-Annular-Illumination?tab=readme-ov-file)  
 Li, J., Matlock, A., Li, Y., Chen, Q., Zuo, C., & Tian, L. (2019). *Advanced Photonics*, 1(6), 066004-066004.
 
 - [**High-Resolution 3D Refractive Index Microscopy of Multiple-Scattering Samples from Intensity Images**](https://opg.optica.org/optica/fulltext.cfm?uri=optica-6-9-1211&id=418751#articleFigures) | [Code](https://github.com/Waller-Lab/multi-slice?tab=readme-ov-file)  
@@ -89,7 +89,7 @@ Zuo, C., Sun, J., Li, J., Asundi, A., & Chen, Q. (2020). *Optics and Lasers in E
 - [**Multi-Layer Born Multiple-Scattering Model for 3D Phase Microscopy**](http://opg.optica.org/optica/fulltext.cfm?uri=optica-7-5-394&id=431219) | [Code](https://github.com/Waller-Lab/multi-layer-born?tab=readme-ov-file)  
 Chen, M., Ren, D., Liu, H.-Y., Chowdhury, S., & Waller, L. (2020). *Optica*, 7, 394-403.
 
-- [**High-Fidelity Intensity Diffraction Tomography with a Non-Paraxial Multiple-Scattering Model**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-32808&id=495495) | [Code](https://github.com/bu-cisl/SSNP-IDT?tab=readme-ov-file) 
+- [**High-Fidelity Intensity Diffraction Tomography with a Non-Paraxial Multiple-Scattering Model**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-18-32808&id=495495) | [Code](https://github.com/bu-cisl/SSNP-IDT?tab=readme-ov-file)  
 Zhu, J., Wang, H., & Tian, L. (2022). *Optics Express*, 30, 32808-32821.
 
 
@@ -98,10 +98,10 @@ Matlock, A., Zhu, J., & Tian, L. (2023). *Optics Express*, 31(3), 4094-4107.
 
 
 #### Learning Algorithm-Integrated Model
-- [**Diffraction Tomography with a Deep Image Prior**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-9-12872&id=430210)  | [Code](https://github.com/kevinczhou/deep-prior-diffraction-tomography) 
+- [**Diffraction Tomography with a Deep Image Prior**](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-9-12872&id=430210)  | [Code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)   
 Zhou, K. C., & Horstmeyer, R. (2020). *Optics Express*, 28(9), 12872-12896.
 
-- [**Recovery of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements Using Neural Fields**](https://www.nature.com/articles/s42256-022-00530-3)  | [Code](https://github.com/wustl-cig/DeCAF) 
+- [**Recovery of Continuous 3D Refractive Index Maps from Discrete Intensity-Only Measurements Using Neural Fields**](https://www.nature.com/articles/s42256-022-00530-3)  | [Code](https://github.com/wustl-cig/DeCAF)   
 Liu, R., Sun, Y., Zhu, J., Tian, L., & Kamilov, U. S. (2022). *Nature Machine Intelligence*, 4(9), 781-791.
 
 ### Neural-field 
